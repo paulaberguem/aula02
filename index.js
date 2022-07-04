@@ -1,1 +1,1 @@
-console.log("git flow");
+console.log("git log");
